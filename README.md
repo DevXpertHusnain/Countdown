@@ -139,7 +139,7 @@
 </head>
 <body>
     <div class="container">
-        <h1>For Someone Special A💘 Birthday 🎈 🎂</h1>
+        <h1>For Someone Special's  Birthday🎈🎂 A💞</h1>
         <div class="countdown">
             <div class="countdown-item">
                 <div class="countdown-number" id="days">00</div>
